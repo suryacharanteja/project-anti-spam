@@ -8,7 +8,9 @@ Temporary name for a greenfield project owned by the project manager / technical
 
 Read the [Project Approach and Delivery Plan](project-management/PROJECT-APPROACH.md). It is the single living reference for context, current status, research, feasibility, requirements, designs, approvals, GitHub workflow, and next actions.
 
-**Current phase:** discovery, awaiting the pain-point image or text. No product scope or technology is approved.
+**Current phase:** discovery and initial market/open-source research. The business pain point is captured; target-market and user validation remain pending.
+
+**Proposed product:** an Android app that assesses incoming numbers, uses a voice agent to screen suspected spam/scam callers, and offers same-phone live takeover for likely genuine calls. The living plan contains competitor findings, reusable components, and the unresolved Android call-audio/routing constraint. No MVP, model, or architecture is approved.
 
 **Sequence:** discovery → research → feasibility → readiness review → BRD → solution options → SDD → FRD → HLD → approved LLDs → development by LLD → validation and release.
 
